@@ -1,31 +1,33 @@
 <h1> Game Stock Application</h1>
 
-Simple application built to manage a game stock.
+Aplicação construída para gerenciar um estoque de jogos.
 
-## Technology stack
+## Tecnologias utilizadas
 * Laravel 10
 * Bootstrap
 * Breeze
 * Spatie
 
-## How it works
+## Como funciona
 
-### Auth
+### Autenticação
 
 * Login.
 
-![login](https://github.com/vsouzaa/gamestock-app/assets/111457616/f71f641e-5f51-476b-a0c1-4f20fb778a75)
+
+![img1](https://github.com/f4bsf4bs/gamestock-app/assets/148719092/bf7c6673-43ff-4608-97f9-911d388630f0)
 
 
 ### Dashboard
 
-* Display all games and methods.
+* Mostra todos os jogos e métodos
 
-![dashboard](https://github.com/vsouzaa/gamestock-app/assets/111457616/fda0beb2-2fb6-41a1-8c58-448b3641f8fb)
+![img2](https://github.com/f4bsf4bs/gamestock-app/assets/148719092/3a75f706-af32-4451-a9c3-d720e7ba5756)
 
-* Create and edit (both have the same layout).
 
-![edit_create](https://github.com/vsouzaa/gamestock-app/assets/111457616/10b59c20-abe7-42ef-8922-ecc6fba5c7df)
+* Edite e crie (ambos tem o mesmo layout).
+
+![img3](https://github.com/f4bsf4bs/gamestock-app/assets/148719092/2fdc8be8-f463-4311-af78-825848a16e0f)
 
 
 
